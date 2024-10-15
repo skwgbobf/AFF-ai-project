@@ -23,6 +23,6 @@ This is the `AFF-ai-project`, aimed at developing AI models for predicting the o
 ## Usage
 
 To train the AFF prediction model, run the following command:
-# python train.py --data_path path_to_your_data --epochs 10
+python train.py --data_path path_to_your_data --epochs 10
 
 ```bash
