@@ -1,0 +1,9 @@
+pandas
+matplotlib
+pickle
+pytorch-pretrained-bert
+scikit-learn
+numpy
+torch
+bertopic
+sentence-transformers
