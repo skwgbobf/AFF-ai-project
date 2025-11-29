@@ -15,7 +15,7 @@ This repository contains code for:
 - **BEHRT Model**: Pre-trained transformer fine-tuned for AFF prediction  
 - **BERTopic Analysis**: Gender-specific multimorbidity pattern identification
 
-**Disease Code**: d138 (Atypical Femoral Fracture)  
+**Disease Code**: 138(AFF)  
 **Prediction Window**: 5-year pre-onset disease history  
 **Data Source**: National Health Insurance Service (NHIS) database
 
