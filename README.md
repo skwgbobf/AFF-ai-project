@@ -18,6 +18,7 @@ This repository contains code for:
 **Disease Code**: 138(AFF)  
 **Prediction Window**: 5-year pre-onset disease history  
 **Data Source**: National Health Insurance Service (NHIS) database
+- The disease vocabulary contains 126 chronic conditions; 138 is the internal ID used for AFF within the model.
 
 ## Repository Structure
 
