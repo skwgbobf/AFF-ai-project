@@ -1,9 +1,33 @@
-pandas
-matplotlib
-pickle
+# Core packages
+torch>=1.8.0
+numpy>=1.20.0
+pandas>=1.1.5
+scikit-learn>=0.24.0
+scipy>=1.6.0
+
+# Deep Learning
 pytorch-pretrained-bert
-scikit-learn
-numpy
-torch
-bertopic
+transformers
+
+# NLP and Text Processing
 sentence-transformers
+bertopic>=0.15.0
+
+# Dimensionality Reduction and Clustering
+umap-learn>=0.5.0
+hdbscan>=0.8.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+plotly>=4.7.0
+
+# Progress bars
+tqdm>=4.41.1
+
+# Jupyter
+jupyter
+ipywidgets
+
+# Utilities
+pickle-mixin
