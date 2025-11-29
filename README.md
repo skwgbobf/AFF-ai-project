@@ -1,4 +1,4 @@
-"# AFF-ai-project
+# AFF-ai-project
 
 This is the `AFF-ai-project`, aimed at developing AI models for predicting the onset of Atrial Fibrillation and Flutter (AFF) using advanced techniques like BEHRT (Bidirectional Encoder Representation from Transformers for Electronic Health Records) and BERTopic for multimorbidity pattern identification.
 
