@@ -7,7 +7,6 @@ This is the `AFF-ai-project`, aimed at developing AI models for predicting the o
 - **Multimorbidity Analysis**: BERTopic is used to analyze and visualize disease patterns, identifying comorbidities associated with AFF across different populations.
 - **Gender-Specific Disease Patterns**: Identifies cardiovascular, respiratory, and neurodegenerative disease patterns in male and female patients with AFF.
 
-   ```
 
 
 ## Overview
