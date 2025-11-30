@@ -1,33 +1,35 @@
+# Python version: 3.9.17 (managed by environment, not pip)
+
 # Core packages
-torch>=1.8.0
-numpy>=1.20.0
-pandas>=1.1.5
-scikit-learn>=0.24.0
-scipy>=1.6.0
+torch==2.1.2
+numpy==1.26.0
+pandas==2.1.1
+scikit-learn==1.3.2
+scipy==1.11.4
 
-# Deep Learning
-pytorch-pretrained-bert
-transformers
+# Deep Learning & Transformers
+transformers==4.36.2
+sentence-transformers==2.2.2
 
-# NLP and Text Processing
-sentence-transformers
-bertopic>=0.15.0
+# Topic Modeling
+bertopic==0.16.0
 
 # Dimensionality Reduction and Clustering
-umap-learn>=0.5.0
-hdbscan>=0.8.0
+umap-learn==0.5.5
+hdbscan==0.8.33
 
 # Visualization
-matplotlib>=3.3.0
-seaborn>=0.11.0
-plotly>=4.7.0
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
 
 # Progress bars
-tqdm>=4.41.1
+tqdm==4.66.1
 
 # Jupyter
-jupyter
-ipywidgets
+jupyter==1.0.0
+ipywidgets==8.1.1
 
-# Utilities
-pickle-mixin
+# Note: pickle is part of Python standard library
+# pytorch-pretrained-bert is deprecated and replaced by transformers
+
