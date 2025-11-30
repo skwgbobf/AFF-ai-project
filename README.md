@@ -132,9 +132,6 @@ jupyter notebook 5.BertTopic_TSNE_class_138_100pall_5y_onset.ipynb
 - t-SNE visualization
 - Disease pattern identification
 
-**Key Findings**:
-- Males: Cardiovascular disease clusters
-- Females: Osteoporosis and musculoskeletal clusters
 
 
 
